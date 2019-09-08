@@ -1,4 +1,4 @@
-# MIPS-32b with Pipeline
+# MIPS 32bit with Pipeline
 Implementação do caminho de dados de um processador da arquitetura MIPS com pipeline.
 
 ![](https://i.imgur.com/zGtj9kI.png)
